@@ -1,0 +1,2 @@
+# Medical-Image-Classification-with-Uncertainty-Estimation
+A single recommendation approach always breaks down somewhere. Collaborative Filtering (CF) is powerful but fails for new users and new items (the cold-start problem). Content-based filtering works without interaction history but creates a "filter bubble" — recommending only what the user already knows they like. A hybrid system solves both.
